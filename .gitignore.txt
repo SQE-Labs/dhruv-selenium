@@ -1,0 +1,21 @@
+# Ignore Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# Ignore Maven build output
+target/
+
+# Ignore TestNG output
+test-output/
+
+# Ignore screenshot directory
+screenshot/
+
+# Ignore OS-specific files
+.DS_Store  # macOS specific
+Thumbs.db  # Windows specific
+
+# Ignore log files and reports
+*.log
+Extent Report.html
